@@ -21,3 +21,4 @@ Local test.
 
 Još malo.
 
+Iz centrale.
