@@ -18,3 +18,6 @@ If you want to propose some changes to this repo, you may *fork* it, modify the 
 This is a test.
 
 Local test.
+
+Još malo.
+
